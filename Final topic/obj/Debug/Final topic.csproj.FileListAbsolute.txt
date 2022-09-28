@@ -1,0 +1,22 @@
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\bin\Debug\Final topic.exe.config
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\bin\Debug\Final topic.exe
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\bin\Debug\Final topic.pdb
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final topic.csprojAssemblyReference.cache
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final_topic.Form1.resources
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final_topic.Properties.Resources.resources
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final topic.csproj.GenerateResource.cache
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final topic.csproj.CoreCompileInputs.cache
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final topic.exe
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final topic.pdb
+C:\Users\mp6wu\OneDrive\桌面\Final topic\Final topic\obj\Debug\Final_topic.Form2.resources
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\bin\Debug\Final topic.exe.config
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\bin\Debug\Final topic.exe
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\bin\Debug\Final topic.pdb
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final topic.csproj.AssemblyReference.cache
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final_topic.Form1.resources
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final_topic.Form2.resources
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final_topic.Properties.Resources.resources
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final topic.csproj.GenerateResource.cache
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final topic.csproj.CoreCompileInputs.cache
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final topic.exe
+D:\Tim\Downloads\Final topic-20220926T133331Z-001\Final topic\Final topic\obj\Debug\Final topic.pdb
